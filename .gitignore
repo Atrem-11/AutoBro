@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+target/
+out/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+Thumbs.db
